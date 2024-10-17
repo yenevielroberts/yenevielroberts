@@ -6,6 +6,9 @@ I like to read and go to the beach and I'm also very eager to become a great dev
 
 
 **Tools**
-Kotlin
-Intellij IDEA
-Visual Studio Code
+
+💠Kotlin
+
+💠Intellij IDEA
+
+💠Visual Studio Code
