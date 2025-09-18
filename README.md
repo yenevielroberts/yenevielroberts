@@ -31,5 +31,5 @@ I'm a student in ITB (Institut Tecnologic de Barcelona) currently studying web d
 
 ---
 ### Git Stats
-![yenevielroberts's Stats](https://github-readme-stats.vercel.app/api?username=yenevielroberts&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![yenevielroberts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenevielroberts&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![yenevielroberts's Stats](https://github-readme-stats.vercel.app/api?username=yenevielroberts&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![yenevielroberts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenevielroberts&theme=algolia&show_icons=true&hide_border=false&layout=compact)
