@@ -30,6 +30,6 @@ I'm a student in ITB (Institut Tecnologic de Barcelona) currently studying web d
 ![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-### Git Stats
+### GitHub Stats
 ![yenevielroberts's Stats](https://github-readme-stats.vercel.app/api?username=yenevielroberts&theme=algolia&show_icons=true&hide_border=false&count_private=true)
 ![yenevielroberts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenevielroberts&theme=algolia&show_icons=true&hide_border=false&layout=compact)
