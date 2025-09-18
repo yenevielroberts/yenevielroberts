@@ -18,5 +18,13 @@ I'm a student in ITB (Institut Tecnologic de Barcelona) currently studying web d
 
 ![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+**Contact information**
+<p align="left">
+  <a href="https://www.linkedin.com/in/yeneviel-roberts-mendez-67200a19a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-YenevielRobertsMendez-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mendezyeneviel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-YenevielRobertsMendez-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
