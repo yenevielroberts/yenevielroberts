@@ -1,4 +1,4 @@
-## 👋Hi there, my name is Yeneviel Roberts 
+# 👋Hi there, I'm Yeneviel Roberts 
 
 I'm a student in ITB (Institut Tecnologic de Barcelona) currently studying web devlelopment💻.
 
@@ -14,7 +14,7 @@ I'm a student in ITB (Institut Tecnologic de Barcelona) currently studying web d
 </p>
 
 
-
+---
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,4 +29,7 @@ I'm a student in ITB (Institut Tecnologic de Barcelona) currently studying web d
 
 ![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+---
+### Git Stats
+![yenevielroberts's Stats](https://github-readme-stats.vercel.app/api?username=yenevielroberts&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![yenevielroberts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenevielroberts&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
